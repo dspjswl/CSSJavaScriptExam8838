@@ -1,0 +1,4 @@
+1.数据库用户名为root，密码无
+2.命令行中进入工程目录后，输入mvn compile后回车
+3.输入mvn tomcat:run回车
+4.登录浏览器，键入http://localhost:8080/CSSJavaScriptExam8838/login.jsp
